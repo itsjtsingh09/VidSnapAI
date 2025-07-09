@@ -1,0 +1,4 @@
+file '360_F_297802964_ErZNDFx18MpxZmU5rCC8WdEDDUrByZU2.jpg'
+duration 1
+file '360_F_136442677_hrnK7sjH1aCRxhtsyVUZopmfehyHMvOt.jpg'
+duration 1
